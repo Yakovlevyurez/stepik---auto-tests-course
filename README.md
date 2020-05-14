@@ -1,3 +1,2 @@
 # stepik---auto-tests-course
-Домашка по курсу
-Здесь будет мой проект!
+There will be my future project!
